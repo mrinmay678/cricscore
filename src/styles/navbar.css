@@ -1,0 +1,11 @@
+.navbar {
+    background-color: green;
+    padding: 16px;
+}
+
+.navbar a {
+    font-size: 32px;
+    font-weight: bold;
+    text-decoration: none;
+    color: white;
+}
